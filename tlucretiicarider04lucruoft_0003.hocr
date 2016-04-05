@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tlucretiicarider04lucruoft_0003.png"; bbox 0 0 1967 3314; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1242 2706 1263 2737">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1242 2706 1263 2737">
+     <span class='ocr_line' id='line_1_1' title="bbox 1242 2706 1263 2737; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 1245 2732 1260 2737; x_wconf 76' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_2' title='bbox 1242 2706 1263 2711; x_wconf 71' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1144 3025 1900 3153">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1144 3025 1900 3153">
+     <span class='ocr_line' id='line_1_2' title="bbox 1144 3128 1169 3153; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 1144 3128 1169 3153; x_wconf 39' lang='grc' dir='ltr'>Ἴ.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1157 3079 1219 3147; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 1157 3079 1219 3147; x_wconf 45' lang='grc' dir='ltr'>,ἓν</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1218 3025 1231 3071; textangle 90"><span class='ocrx_word' id='word_1_5' title='bbox 1218 3025 1231 3071; x_wconf 73' lang='grc' dir='ltr'><strong>ἰ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1609 3110 1628 3142; textangle 90"><span class='ocrx_word' id='word_1_6' title='bbox 1609 3110 1628 3142; x_wconf 63' lang='grc' dir='ltr'>ι(</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1883 3064 1900 3093; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 1883 3064 1900 3093; x_wconf 63' lang='lat' dir='ltr'><em>C</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1967 3314">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1967 3314">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1967 3314; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1967 3314; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
